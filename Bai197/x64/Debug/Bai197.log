@@ -1,0 +1,15 @@
+﻿  Bai197.cpp
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,2): error C2665: 'Xuat': no overloaded function could convert all the argument types
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(27,6): message : could be 'void Xuat(DUONGTRON,int)'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,2): message : 'void Xuat(DUONGTRON,int)': cannot convert argument 1 from 'DUONGTRON [100]' to 'DUONGTRON'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : 'DuongTron::DuongTron': no overloaded function could convert all the argument types
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(19,1): message : could be 'DuongTron::DuongTron(DuongTron &&)'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : 'DuongTron::DuongTron(DuongTron &&)': cannot convert argument 1 from 'DUONGTRON [100]' to 'DuongTron &&'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : Reason: cannot convert from 'DUONGTRON [100]' to 'DuongTron'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : Conversion requires a second user-defined-conversion operator or constructor
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(19,1): message : or       'DuongTron::DuongTron(const DuongTron &)'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : 'DuongTron::DuongTron(const DuongTron &)': cannot convert argument 1 from 'DUONGTRON [100]' to 'const DuongTron &'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : Reason: cannot convert from 'DUONGTRON [100]' to 'const DuongTron'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : Conversion requires a second user-defined-conversion operator or constructor
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,7): message : while trying to match the argument list '(DUONGTRON [100])'
+F:\NMLT\nmlt\23521751_BT05\Bai197\Bai197.cpp(34,2): message : while trying to match the argument list '(DUONGTRON [100], int)'
