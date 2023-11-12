@@ -1,0 +1,4 @@
+﻿  Bai205.cpp
+D:\New folder (2)\BT5\Bai205\Bai205.cpp(145,69): warning C4305: '+=': truncation from 'double' to 'float'
+D:\New folder (2)\BT5\Bai205\Bai205.cpp(146,70): warning C4305: '+=': truncation from 'double' to 'float'
+  Bai205.vcxproj -> D:\New folder (2)\BT5\x64\Debug\Bai205.exe

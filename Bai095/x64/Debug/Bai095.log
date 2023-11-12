@@ -1,0 +1,7 @@
+﻿  Bai095.cpp
+  Bai215.cpp
+  Generating Code...
+Bai215.obj : error LNK2005: "void __cdecl Nhap(struct Ngay &)" (?Nhap@@YAXAEAUNgay@@@Z) already defined in Bai095.obj
+Bai215.obj : error LNK2005: "void __cdecl Xuat(struct Ngay)" (?Xuat@@YAXUNgay@@@Z) already defined in Bai095.obj
+Bai215.obj : error LNK2005: main already defined in Bai095.obj
+D:\New folder (2)\BT5\x64\Debug\Bai095.exe : fatal error LNK1169: one or more multiply defined symbols found
